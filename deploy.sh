@@ -1,3 +1,4 @@
+#deployment comments
 #!/bin/bash
 sudo apt update -y
 sudo apt install zip unzip -y
